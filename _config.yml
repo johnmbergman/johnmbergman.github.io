@@ -24,20 +24,11 @@ author:
   email: johnmbergman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website of John Michael Bergman
-  johnmbergman.com © 2020
-  Made with love in Seattle
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
-
-# Theme settings
-minima:
-  social_links:
-    twitter:  johnmbergman
-    github:   johnmbergman
-    linkedin: johnmbergman
 
 # Header settings
 header_pages:
